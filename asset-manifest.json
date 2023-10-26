@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tanvi_malhan/static/css/main.b4851e7f.css",
+    "main.js": "/tanvi_malhan/static/js/main.ade09cea.js",
+    "static/css/307.451bc7e3.chunk.css": "/tanvi_malhan/static/css/307.451bc7e3.chunk.css",
+    "static/js/307.d602e96a.chunk.js": "/tanvi_malhan/static/js/307.d602e96a.chunk.js",
+    "static/css/144.ce0424ac.chunk.css": "/tanvi_malhan/static/css/144.ce0424ac.chunk.css",
+    "static/js/144.54315f2e.chunk.js": "/tanvi_malhan/static/js/144.54315f2e.chunk.js",
+    "static/media/tanvi_pic.jpeg": "/tanvi_malhan/static/media/tanvi_pic.b06944cd9b7f39a8a15c.jpeg",
+    "static/media/moviecard-card.png": "/tanvi_malhan/static/media/moviecard-card.78954b0ab4e0f717f3be.png",
+    "static/media/cartdemo-card.png": "/tanvi_malhan/static/media/cartdemo-card.e215e50bac6836560af1.png",
+    "static/media/quiz-card.png": "/tanvi_malhan/static/media/quiz-card.7dfcb87236807f9165b4.png",
+    "static/media/dojo-card.png": "/tanvi_malhan/static/media/dojo-card.0f02173e564c99b53523.png",
+    "static/media/grid.png": "/tanvi_malhan/static/media/grid.e8fe42e972194fdda7fa.png",
+    "index.html": "/tanvi_malhan/index.html",
+    "main.b4851e7f.css.map": "/tanvi_malhan/static/css/main.b4851e7f.css.map",
+    "main.ade09cea.js.map": "/tanvi_malhan/static/js/main.ade09cea.js.map",
+    "307.451bc7e3.chunk.css.map": "/tanvi_malhan/static/css/307.451bc7e3.chunk.css.map",
+    "307.d602e96a.chunk.js.map": "/tanvi_malhan/static/js/307.d602e96a.chunk.js.map",
+    "144.ce0424ac.chunk.css.map": "/tanvi_malhan/static/css/144.ce0424ac.chunk.css.map",
+    "144.54315f2e.chunk.js.map": "/tanvi_malhan/static/js/144.54315f2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4851e7f.css",
+    "static/js/main.ade09cea.js"
+  ]
+}
