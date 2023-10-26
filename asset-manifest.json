@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tanvi_malhan/static/css/main.b4851e7f.css",
-    "main.js": "/tanvi_malhan/static/js/main.ade09cea.js",
+    "main.js": "/tanvi_malhan/static/js/main.f9b689bf.js",
     "static/css/307.451bc7e3.chunk.css": "/tanvi_malhan/static/css/307.451bc7e3.chunk.css",
     "static/js/307.d602e96a.chunk.js": "/tanvi_malhan/static/js/307.d602e96a.chunk.js",
     "static/css/144.ce0424ac.chunk.css": "/tanvi_malhan/static/css/144.ce0424ac.chunk.css",
@@ -14,7 +14,7 @@
     "static/media/grid.png": "/tanvi_malhan/static/media/grid.e8fe42e972194fdda7fa.png",
     "index.html": "/tanvi_malhan/index.html",
     "main.b4851e7f.css.map": "/tanvi_malhan/static/css/main.b4851e7f.css.map",
-    "main.ade09cea.js.map": "/tanvi_malhan/static/js/main.ade09cea.js.map",
+    "main.f9b689bf.js.map": "/tanvi_malhan/static/js/main.f9b689bf.js.map",
     "307.451bc7e3.chunk.css.map": "/tanvi_malhan/static/css/307.451bc7e3.chunk.css.map",
     "307.d602e96a.chunk.js.map": "/tanvi_malhan/static/js/307.d602e96a.chunk.js.map",
     "144.ce0424ac.chunk.css.map": "/tanvi_malhan/static/css/144.ce0424ac.chunk.css.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.b4851e7f.css",
-    "static/js/main.ade09cea.js"
+    "static/js/main.f9b689bf.js"
   ]
 }
